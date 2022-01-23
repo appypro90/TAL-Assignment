@@ -1,0 +1,5 @@
+<mat-chip-list *ngIf='!(isLoading | async)'>
+    <mat-chip  *ngFor="let timeSlot of (timeSlots | async)" (click)="bookTIme(timeSlot)">
+        {{timeSlot.startTimeDisplay}}
+    </mat-chip>
+</mat-chip-list>

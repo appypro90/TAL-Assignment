@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Backend/.vs/Backend
+/Backend/Api/bin/Debug/net5.0
+/Backend/Api/obj
+/Backend/Bl/bin/Debug/net5.0
+/Backend/Bl/obj
+/Backend/Dal/bin/Debug/net5.0
+/Backend/Dal/obj
+/Backend/Domain/bin/Debug/net5.0
+/Backend/Domain/obj
+/Backend/Repository/bin/Debug/net5.0
+/Backend/Repository/obj
+/Backend/UT/bin/Debug/net5.0
+/Backend/UT/obj
+/Backend/Backend.sln.DotSettings.user
+/Backend/Api/Api.csproj.user
+/Backend/.vs/ProjectEvaluation
